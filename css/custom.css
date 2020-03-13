@@ -1,0 +1,69 @@
+/* Tag Oriented */
+
+h1 {
+	text-align: 			center;
+	font-size:				5vw;
+}
+
+h2 {
+	text-align: 			center;
+	font-size:				3vw;
+}
+
+h3 {
+	text-align: 			center;
+	font-size:				2.5vw;
+}
+
+h4 {
+	text-align: 			center;
+	font-size:				2vw;
+}
+
+a, i {
+	color: 						inherit;
+}
+
+/* Overridden Classes */
+
+.navbar-custom {
+	background-image: linear-gradient(bottom, #0099ff 25%, #0099ff 75%);
+	background-image: -o-linear-gradient(bottom, #0099ff 25%, #0099ff 75%);
+	background-image: -moz-linear-gradient(bottom, #0099ff 25%, #0099ff 75%);
+	background-color: #0099ff;
+	background-image: -ms-linear-gradient(bottom, #0099ff 25%, #0099ff 75%);
+	
+	height: 					25%;
+	padding-top: 			1%;	
+	border: 					none;
+	
+	transition: 			all 0.4s ease;
+}
+
+/* IDs */
+
+#profilepic {
+	border:						4px solid white;
+	max-height:				100%;
+}
+
+/* Custom Classes */
+
+.shrink {
+	background-color: #0099ff 				!important; 
+	height: 					10%;
+	padding-top: 			1%;
+}
+
+.profile {
+	text-align: 			center;
+	padding-bottom: 	7%;
+}
+
+.callout {
+	background-color: #0099ff;
+}
+
+.row {
+	padding-top: 			2%;
+}
